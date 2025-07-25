@@ -16,7 +16,7 @@ Soy Full Stack Developer y un amante de la tecnología, me apasiona el aprendiza
 - 🎯 Especializado en **aplicaciones empresariales** y **sistemas financieros**
 - 📫 Contáctame en: <a href="mailto:jeancarleonardo514@gmail.com">jeancarleonardo514@gmail.com</a>
 
-## Habilidades
+## Tecnologias
 
 <h4> Lenguajes de Programación </h4>
 <span> 
