@@ -4,7 +4,7 @@
 
 <img src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png" width="80px">&nbsp;***Acerca de mí***
 
-Soy Full Stack Developer y un amante de la tecnología, me apasiona el aprendizaje continuo. Mi objetivo es seguir creciendo como profesional y buscar formas de mejorar, optimizar e implementar buenas prácticas en cada proyecto que participe, cuento con experiencia en aplicaciones web dinámicas y escalables.
+Soy Full Stack Developer y un amante de la tecnología, me apasiona el aprendizaje continuo. Mi objetivo es seguir creciendo como profesional y buscar formas de mejorar, optimizar e implementar buenas prácticas en cada proyecto que participe.
 
 - 🌱 Actualmente trabajo con...
   - Arquitectura de Microservicios
@@ -31,8 +31,8 @@ Soy Full Stack Developer y un amante de la tecnología, me apasiona el aprendiza
 
 <h4> Tecnologías Frontend </h4>
 <span>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -47,15 +47,14 @@ Soy Full Stack Developer y un amante de la tecnología, me apasiona el aprendiza
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
 </span>
 
 <h4> Bases de Datos </h4>
 <span>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
 </span>
 
