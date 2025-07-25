@@ -16,7 +16,7 @@ Soy Full Stack Developer y un amante de la tecnología, me apasiona el aprendiza
 - 🎯 Especializado en **aplicaciones empresariales** y **sistemas financieros**
 - 📫 Contáctame en: <a href="mailto:jeancarleonardo514@gmail.com">jeancarleonardo514@gmail.com</a>
 
-## Mis Habilidades Incluyen
+## Habilidades
 
 <h4> Lenguajes de Programación </h4>
 <span> 
@@ -71,7 +71,6 @@ Soy Full Stack Developer y un amante de la tecnología, me apasiona el aprendiza
   <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white">
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
-  <img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white">
 </span>
 
 ## Experiencia Profesional
