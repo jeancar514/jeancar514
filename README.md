@@ -12,7 +12,7 @@ Soy Full Stack Developer y un amante de la tecnología, me apasiona el aprendiza
   - Desarrollo Móvil con Flutter
 - 👯 Busco colaborar en proyectos innovadores
 - ✔ Pregúntame sobre cualquier cosa, estaré feliz de ayudar<br>
-- 💼 Actualmente trabajo como **Full Stack Developer y Analista de Aplicaciones**
+- 💼 Actualmente trabajo como **Full Stack Developer**
 - 🎯 Especializado en **aplicaciones empresariales** y **sistemas financieros**
 - 📫 Contáctame en: <a href="mailto:jeancar514@example.com">jeancar514@example.com</a>
 
@@ -77,7 +77,7 @@ Soy Full Stack Developer y un amante de la tecnología, me apasiona el aprendiza
 
 ## Experiencia Profesional
 
-**🏢 Full Stack Developer y Analista de Aplicaciones**
+**🏢 Analista de Aplicaciones**
 - Desarrollo frontend de nuevos módulos funcionales utilizando **Angular**, mejorando la experiencia del usuario y la eficiencia operativa
 - Mantenimiento y mejoras sustanciales en múltiples proyectos basados en **arquitectura de microservicios** (Java-Spring)
 - Implementación de **Spring Security** para control de accesos y autenticación
