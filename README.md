@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hola, soy Jeancar Sanchez</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Desarrollador" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Desarrollador" src="[https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjdxM2F5d2d1ZDJjNWl3a3g1aWhpaHBlbzJkOTZ2dzUyb21zc2N3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ztpMY1t5VYWlO/200.webp)" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Acerca de mí***
+<img src="[[https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif](https://giphy.com/gifs/thecodingspacerd-code-coder-lets-HscDLzkO8EOTmgkhQP)](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDh1bng4d3FiMHZsNnhyeWZzYWh0MzF1MzluZ2J6bWthdWN0dzdjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif)" width="30px">&nbsp;***Acerca de mí***
 
 Soy Full Stack Developer y un amante de la tecnología, me apasiona el aprendizaje continuo. Mi objetivo es seguir creciendo como profesional y buscar formas de mejorar, optimizar e implementar buenas prácticas en cada proyecto que participe, cuento con experiencia en aplicaciones web dinámicas y escalables.
 
@@ -14,7 +14,7 @@ Soy Full Stack Developer y un amante de la tecnología, me apasiona el aprendiza
 - ✔ Pregúntame sobre cualquier cosa, estaré feliz de ayudar<br>
 - 💼 Actualmente trabajo como **Full Stack Developer**
 - 🎯 Especializado en **aplicaciones empresariales** y **sistemas financieros**
-- 📫 Contáctame en: <a href="mailto:jeancar514@example.com">jeancar514@example.com</a>
+- 📫 Contáctame en: <a href="mailto:jeancarleonardo514@gmail.com">jeancarleonardo514@gmail.com</a>
 
 ## Mis Habilidades Incluyen
 
