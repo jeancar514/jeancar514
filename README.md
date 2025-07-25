@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hola, soy Jeancar Sanchez</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Desarrollador" src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" />
+<img align="right" width=300px alt="Desarrollador" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-<img src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png" width="30px">&nbsp;***Acerca de mí***
+<img src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png" width="80px">&nbsp;***Acerca de mí***
 
 Soy Full Stack Developer y un amante de la tecnología, me apasiona el aprendizaje continuo. Mi objetivo es seguir creciendo como profesional y buscar formas de mejorar, optimizar e implementar buenas prácticas en cada proyecto que participe, cuento con experiencia en aplicaciones web dinámicas y escalables.
 
